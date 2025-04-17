@@ -1,5 +1,5 @@
 # Circam
-A simple circular webcam viewer for Linux using SDL2 and V4L2. Displays a webcam feed in a resizable, draggable, circular window with a centered square crop, good for screencast.
+A simple circular webcam viewer for Linux using SDL2 and V4L2. Displays a webcam feed in a resizable, draggable, circular window with a centered square crop, good for screencast desktop sharing.
 
 ## Features
 - Circular window with a square-cropped webcam feed.
